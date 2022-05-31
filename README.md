@@ -2,11 +2,6 @@
 
 I'm John! Currently a Princeton University graduate student.
 
-🔭 I’m currently working on ...
-- Teaching for [COS 126](https://www.cs.princeton.edu/courses/archive/fall21/cos126/)
-- Research on Program Synthesis and Programming Languages
-- Engineering at [Jerry.ai](https://jerry.ai/)
-
 Check out [john-b-yang.github.io](http://john-b-yang.github.io/) for more.
 
 <!--
