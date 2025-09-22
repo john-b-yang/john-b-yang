@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm John! Currently a 1st year CS PhD student at Stanford University.
+I'm John! Currently a 2nd year CS PhD student at Stanford University.
 
 Check out [john-b-yang.github.io](http://john-b-yang.github.io/) for more.
 
